@@ -20,7 +20,8 @@ function Home() {
         Project 7: Raspberry Pi Project which turns a light on when a specific
         bascule bridge in the Netherlands opens. Hardware in micro python +
         Small scraping part because the Dutch government didn't gave my api
-        access.
+        access. First hardware app I've built, looking for inspiration for
+        follow-up projects.
       </p>
       <p>
         Project 8: Automatic check if new jobs are posted to a freelance
