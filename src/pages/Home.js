@@ -38,8 +38,8 @@ function Home() {
       </ul>
       <p>
         Project 11: The project I got the most attention with up to now:
-        RandomAirport. A NodeJS backend and a React frontend. Uses the Google
-        Maps API. High dependency on Jetphotos.{" "}
+        RandomAirport. A NodeJS backend and a React frontend. And a Notion(!)
+        Database. Uses the Google Maps API. High dependency on Jetphotos.{" "}
       </p>
       <p>
         Project 12: SameDayBlocker: A Google Calendar integration in App Script.
