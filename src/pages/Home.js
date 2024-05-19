@@ -44,6 +44,10 @@ function Home() {
       <p>
         Project 12: SameDayBlocker: A Google Calendar integration in App Script.
       </p>
+      <p>
+        Project 13: Not sure if the name 'project' worthy, but I made a digital
+        dice when we didn't have any...
+      </p>
     </div>
   );
 }
