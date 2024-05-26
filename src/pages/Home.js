@@ -47,7 +47,6 @@ function Home() {
       <p>Project 10: A selection of Fun Marketing Tools</p>
       <ul>
         <li>...</li>
-        <li>...</li>
       </ul>
       <p>
         Project 11: The project I got the most attention with up to now:
@@ -61,6 +60,7 @@ function Home() {
         Project 13: Not sure if the name 'project' worthy, but I made a digital
         dice when we didn't have any...
       </p>
+      <p>Project 14: ...</p>
     </div>
   );
 }
