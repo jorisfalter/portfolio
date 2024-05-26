@@ -6,13 +6,13 @@ function Home() {
       Welcome to My Portfolio
       <h3>Tags</h3>
       <p>
-        Tools Tags: Notion, Jira, Confluence, Chatgpt, Cloudflare, Airtable,
+        Tools: Notion, Jira, Confluence, Chatgpt, Cloudflare, Airtable,
         Sendgrid, Postmark, Convertkit, Github, Heroku, Render, Vercel, Groq,
         Replicate,...
       </p>
       <p>
-        Tech tags: Google App Script, Stable Diffusion, Dalle, Chatgpt, Node,
-        React, Next, EJS, MongoDB, Python,{" "}
+        Tech: Google App Script, Stable Diffusion, Dalle, Chatgpt, Node, React,
+        Next, EJS, MongoDB, Python,{" "}
       </p>
       <p>Social: LinkedIn, Twitter</p>
       <p>In Pipeline: Simple Analytics</p>
