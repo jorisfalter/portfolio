@@ -4,6 +4,10 @@ function Home() {
   return (
     <div>
       Welcome to My Portfolio
+      <p>
+        I build fun, exciting projects. I build things which spark excitement
+        and energy. I build things which help people dream.
+      </p>
       <h3>Tags</h3>
       <p>
         Tools: Notion, Jira, Confluence, Chatgpt, Cloudflare, Airtable,
