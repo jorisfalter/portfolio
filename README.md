@@ -2,6 +2,8 @@
 
 This project is not yet deployed on Heroku or Vercel
 
+It's React, so I don't think I can use Vercel
+
 ############## template stuff below
 
 # Getting Started with Create React App
