@@ -48,8 +48,10 @@ function Home() {
         Project 9: Notion tool to reread my goals, principles, marketing plans,
         project plans, ... with a Python backend.{" "}
       </p>
-      <p>Project 10: A selection of Fun Marketing Tools</p>
+      <p>Project 10: A selection of (sometimes irritating) Marketing Tools</p>
       <ul>
+        <li>A popup which appears if you stay idle on the page</li>
+        <li>The tab context changing when you're on another tab</li>
         <li>...</li>
       </ul>
       <p>
