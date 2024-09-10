@@ -1,8 +1,10 @@
 # Portfolio
 
-This project is being deployed on Render
+This project is deployed on Render
 
-############## template stuff below
+https://portfolio-e3s6.onrender.com
+
+# template stuff below
 
 # Getting Started with Create React App
 
