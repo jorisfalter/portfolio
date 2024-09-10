@@ -15,11 +15,11 @@ function Home() {
         Replicate,...
       </p>
       <p>
-        Tech: Google App Script, Stable Diffusion, Dalle, Chatgpt, Node, React,
+        Tech: Google App Script, Stable Diffusion, Dall-e, Chatgpt, Node, React,
         Next, EJS, MongoDB, Python,{" "}
       </p>
       <p>Social: LinkedIn, Twitter</p>
-      <p>In Pipeline: Simple Analytics</p>
+      <p>Tools in pipeline: Simple Analytics integrations</p>
       <h3>Projects</h3>
       <p>Project 1: ChatGPT AI Wrapping in AI-Juniors</p>
       <p>Project 2: Frontend development for Reggio-Home (using Next)</p>
