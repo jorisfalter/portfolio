@@ -4,6 +4,18 @@ This project is deployed on Render
 
 https://portfolio-e3s6.onrender.com
 
+##
+
+run locally:
+
+npm start
+
+build:
+
+npm run build. Auto-deploy on Render.
+
+---
+
 # template stuff below
 
 # Getting Started with Create React App
