@@ -100,8 +100,16 @@ function Home() {
         Project 7: Raspberry Pi Project which turns a light on when a specific
         bascule bridge in the Netherlands opens. Hardware in micro python +
         Small scraping part because the Dutch government didn't gave me api
-        access. First hardware app I've built, looking for inspiration for
-        follow-up projects.
+        access. Then it deploys to{" "}
+        <a
+          href="https://bridgeopen-0fd60d885493.herokuapp.com/ledstatus"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          a website I host on Heroku
+        </a>
+        , where the Raspberry gets the bridge status from. First hardware app
+        I've built, looking for inspiration for follow-up projects.
       </p>
       <p>
         Project 8: Automatic check if new jobs are posted to a freelance
