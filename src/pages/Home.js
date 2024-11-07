@@ -29,7 +29,7 @@ function Home() {
       <p>
         Tools: Notion, Jira, Confluence, Chatgpt, Cloudflare, Airtable,
         Sendgrid, Postmark, Convertkit, Github, Heroku, Render, Vercel, Groq,
-        Replicate,...
+        Replicate, Fly.io, ...
       </p>
       <p>
         Tech: Google App Script, Stable Diffusion, Dall-e, Chatgpt, Node, React,
@@ -209,7 +209,7 @@ function Home() {
         >
           DEVTask template
         </a>
-        .
+        . First time using fly.io.
       </p>{" "}
       <p>
         Project 17: Link Summary Extension
