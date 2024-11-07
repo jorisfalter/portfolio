@@ -175,9 +175,38 @@ function Home() {
         , a map of interesting places to live (unfinished).
       </p>
       <p>
-        Project 15: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
+        Project 15: Copenhagen marathon: A tool which allowed me to constantly
+        track the resale platform of Copenhagen Marathon and eventually buy a
+        ticket. Using Pushover App for Push Notifs, and first time using
+        Cloudflare Workers, Cloudflare KV storage and Cloudflare email service.
+        Way better solution compared to VisualPing.
       </p>
+      <p>
+        Project 16:{" "}
+        <a
+          href="https://pitchdeckgenerator.fly.dev/"
+          target="_blank"
+          rel="noopener noreferrer"
+        ></a>
+        A Pitch Deck generator based on the Antler program's template. Built
+        with Chatgpt. First time usage of Webflow to design the UI, using a
+        <a href="https://webflow.com/templates/html/devtask-marketplace-website-template">
+          DEVTask template
+        </a>
+        .
+      </p>{" "}
+      <p>
+        Project 16: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 16: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 16: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
       <p>
         Project 16: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
