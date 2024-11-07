@@ -11,6 +11,14 @@ function Home() {
       >
         Link to this page
       </a>
+      .{" "}
+      <a
+        href="https://github.com/jorisfalter"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Link to Github
+      </a>
       .
       {/*for copy pasting purposes: <a href="" target="_blank" rel="noopener noreferrer"></a> */}
       <p>
@@ -182,33 +190,42 @@ function Home() {
         Way better solution compared to VisualPing.
       </p>
       <p>
-        Project 16:{" "}
+        Project 16: A{" "}
         <a
           href="https://pitchdeckgenerator.fly.dev/"
           target="_blank"
           rel="noopener noreferrer"
-        ></a>
-        A Pitch Deck generator based on the Antler program's template. Built
-        with Chatgpt. First time usage of Webflow to design the UI, using a
-        <a href="https://webflow.com/templates/html/devtask-marketplace-website-template">
+        >
+          Pitch Deck Content Generator
+        </a>{" "}
+        based on the Antler program's pitchdeck template. This is an exploration
+        project to check if we can go to a full-fletched pitchdeck generator.
+        Built with Chatgpt API, using NodeJS. First time usage of Webflow to
+        design the UI, using a{" "}
+        <a
+          href="https://webflow.com/templates/html/devtask-marketplace-website-template"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           DEVTask template
         </a>
         .
       </p>{" "}
       <p>
-        Project 16: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 17: Link Summary Extension
+        <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>{" "}
       <p>
-        Project 16: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 18: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>{" "}
       <p>
-        Project 16: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 19: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>{" "}
       <p>
-        Project 16: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 20: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>
     </div>
