@@ -168,8 +168,15 @@ function Home() {
         : A Google Calendar integration in App Script.
       </p>
       <p>
-        Project 13: Not sure if the name 'project' worthy, but I made a digital
-        dice when we didn't have any...
+        Project 13: Not sure if the name 'project' worthy, but I made a{" "}
+        <a
+          href="https://jorisfalter.github.io/qwixxdice/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          digital dice
+        </a>{" "}
+        when we didn't have a physical one...
       </p>
       <p>
         Project 14:{" "}
