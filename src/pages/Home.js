@@ -190,7 +190,7 @@ function Home() {
         , a map of interesting places to live (unfinished).
       </p>
       <p>
-        Project 15: Copenhagen marathon: A tool which allowed me to constantly
+        Project 15: Copenhagen Marathon: A tool which allowed me to constantly
         track the resale platform of Copenhagen Marathon and eventually buy a
         ticket. Using Pushover App for Push Notifs, and first time using
         Cloudflare Workers, Cloudflare KV storage and Cloudflare email service.
@@ -220,12 +220,27 @@ function Home() {
       </p>{" "}
       <p>
         Project 17: Link Summary Extension
-        <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
+        <a href="" target="_blank" rel="noopener noreferrer"></a> (More soon)
       </p>{" "}
       <p>
-        Project 18: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
+        Project 18: Mini project to rebuild a{" "}
+        <a
+          href="https://www.rijkswaterstaat.nl/water/waterbeheer "
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Dutch government website on water management
+        </a>{" "}
+        into{" "}
+        <a
+          href="https://waterbeheer-front-e6a87c6ea5d4.herokuapp.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          something a 5 year old could understand,
+        </a>{" "}
+        so my wife can use it in her classroom. It will probably get outdated
+        pretty soon when the Dutch government updates their original page.
       </p>{" "}
       <p>
         Project 19: <a href="" target="_blank" rel="noopener noreferrer"></a>
