@@ -219,7 +219,7 @@ function Home() {
         . First time using fly.io.
       </p>{" "}
       <p>
-        Project 17: Link Summary Extension
+        Project 17: Link Summary Chrome Extension
         <a href="" target="_blank" rel="noopener noreferrer"></a> (More soon)
       </p>{" "}
       <p>
