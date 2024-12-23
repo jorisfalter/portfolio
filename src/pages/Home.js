@@ -219,8 +219,15 @@ function Home() {
         . First time using fly.io.
       </p>{" "}
       <p>
-        Project 17: Link Summary Chrome Extension
-        <a href="" target="_blank" rel="noopener noreferrer"></a> (More soon)
+        Project 17: Link Summary Chrome Extension:{" "}
+        <a
+          href="https://chromewebstore.google.com/detail/hover-summary/aclmlajdkcnegianablildjnelpplpbm "
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Chrome Extension Store
+        </a>{" "}
+        (More soon)
       </p>{" "}
       <p>
         Project 18: Mini project to rebuild a{" "}
@@ -243,11 +250,38 @@ function Home() {
         pretty soon when the Dutch government updates their original page.
       </p>{" "}
       <p>
-        Project 19: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 19: Important Date Tracker:{" "}
+        <a
+          href="https://datetracker.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          In Production Testing now
+        </a>
+        . In NextJS,SqLiteCloud.io, Deployed on Vercel, Tanstack Reacttable,
+        Postmark{" "}
+      </p>{" "}
+      <p>
+        Project 20: Truck Mapping{" "}
+        <a
+          href="https://truckrouting.fly.dev/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          POC
+        </a>
+        . Fly.io as well. NodeJS. Google Maps API
+      </p>
+      <p>
+        Project 21: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>{" "}
       <p>
-        Project 20: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 22: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 23: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>
     </div>
