@@ -56,8 +56,7 @@ function Home() {
           rel="noopener noreferrer"
         >
           Reggio-Home
-        </a>
-        {""}
+        </a>{" "}
         (using Next)
       </p>
       <p>
