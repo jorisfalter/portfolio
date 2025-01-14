@@ -27,16 +27,23 @@ function Home() {
       </p>
       <h3>Tags</h3>
       <p>
-        Tools: Notion, Jira, Confluence, Chatgpt, Cloudflare, Airtable,
-        Sendgrid, Postmark, Convertkit, Github, Heroku, Render, Vercel, Groq,
-        Replicate, Fly.io, ...
+        Tools:{" "}
+        <i>
+          Notion, Jira, Confluence, Chatgpt, Cloudflare, Airtable, Sendgrid,
+          Postmark, Convertkit, Github, Heroku, Render, Vercel, Groq, Replicate,
+          Fly.io, ...
+        </i>
       </p>
       <p>
-        Tech: Google App Script, Stable Diffusion, Dall-e, Chatgpt, Node, React,
-        Next, EJS, MongoDB, Python,{" "}
+        Tech:{" "}
+        <i>
+          Google App Script, Stable Diffusion, Dall-e, Chatgpt, Node, React,
+          Next, EJS, MongoDB, Python,...
+        </i>{" "}
       </p>
-      <p>Social: LinkedIn, Twitter</p>
-      <p>Tools in pipeline: Simple Analytics integrations</p>
+      <p>
+        Social: <i>LinkedIn, Twitter</i>
+      </p>
       <h3>Projects</h3>
       <p>
         Project 1: ChatGPT AI Wrapping in{" "}
