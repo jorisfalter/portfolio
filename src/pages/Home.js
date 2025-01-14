@@ -273,7 +273,8 @@ function Home() {
         . Fly.io as well. NodeJS. Google Maps API
       </p>
       <p>
-        Project 21: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 21: Scraping a FB Expat group to do trends analysis
+        <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>{" "}
       <p>
