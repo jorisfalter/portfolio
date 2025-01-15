@@ -284,7 +284,8 @@ function Home() {
         ...{" "}
       </p>{" "}
       <p>
-        Project 22: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 22: A dashboard with the next 10 planes landing at Schiphol
+        <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>{" "}
       <p>
