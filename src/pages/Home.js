@@ -42,6 +42,13 @@ function Home() {
         </i>{" "}
       </p>
       <p>
+        AI (and related):{" "}
+        <i>
+          ChatGPT API, Llama API, Replicate, Dall-e, Elevenlabs,
+          Stable-Diffusion, Cursor, Claude, Langchain, Ollama, ...
+        </i>{" "}
+      </p>
+      <p>
         Social: <i>LinkedIn, Twitter</i>
       </p>
       <h3>Projects</h3>
