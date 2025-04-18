@@ -301,25 +301,63 @@ function Home() {
         ...{" "}
       </p>{" "}
       <p>
-        Project 23: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
+        Project 23:{" "}
+        <a
+          href="https://twitter-followers.fly.dev/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Twitter Followers App
+        </a>{" "}
+        - An app which allows to see your twitter followers. Built with Fly,
+        Apify, X, Stripe, react.
       </p>
       <p>
-        Project 24: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
-      </p>{" "}
+        Project 24:{" "}
+        <a
+          href="https://www.aidreamhouse.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          AI Dream House
+        </a>{" "}
+        - An app which generates and curates dreamhouses. Built with Replicate,
+        Flux, typescript, next.js.
+      </p>
       <p>
-        Project 25: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
-      </p>{" "}
+        Project 25:{" "}
+        <a
+          href="https://www.airtraveltechjobs.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Air Travel Tech Jobs
+        </a>{" "}
+        - A platform listing interesting travel companies.
+      </p>
       <p>
-        Project 26: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
-      </p>{" "}
+        Project 26:{" "}
+        <a
+          href="https://www.1000headlines.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          1000 Headlines
+        </a>{" "}
+        - My passion for good marketing copy in a curated list. Built with
+        Next.js, typescript.
+      </p>
       <p>
-        Project 27: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
-      </p>{" "}
+        Project 27:{" "}
+        <a
+          href="https://jorisfalter.github.io/dataWorks/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          DataWorks
+        </a>{" "}
+        - A start to my automation agency website. Static website.
+      </p>
       <p>
         Project 28: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
