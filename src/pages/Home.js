@@ -309,8 +309,8 @@ function Home() {
         >
           Twitter Followers App
         </a>{" "}
-        - An app which allows to see your twitter followers. Built with Fly,
-        Apify, X, Stripe, react.
+        - An app which allows to see your twitter followers. Built with Fly.io,
+        Apify, X, Stripe, React.
       </p>
       <p>
         Project 24:{" "}
@@ -322,7 +322,7 @@ function Home() {
           AI Dream House
         </a>{" "}
         - An app which generates and curates dreamhouses. Built with Replicate,
-        Flux, typescript, next.js.
+        Flux, TypeScript, Next.js.
       </p>
       <p>
         Project 25:{" "}
@@ -333,7 +333,7 @@ function Home() {
         >
           Air Travel Tech Jobs
         </a>{" "}
-        - A platform listing interesting travel companies.
+        - A platform listing interesting travel companies. Static website.
       </p>
       <p>
         Project 26:{" "}
@@ -345,7 +345,7 @@ function Home() {
           1000 Headlines
         </a>{" "}
         - My passion for good marketing copy in a curated list. Built with
-        Next.js, typescript.
+        Next.js, TypeScript.
       </p>
       <p>
         Project 27:{" "}
