@@ -29,17 +29,13 @@ function Home() {
       <p>
         Tools:{" "}
         <i>
-          Notion, Jira, Confluence, Chatgpt, Cloudflare, Airtable, Sendgrid,
-          Postmark, Convertkit, Github, Heroku, Render, Vercel, Groq, Replicate,
-          Fly.io, ...
+          Notion, Jira, Confluence, Cloudflare, Airtable, Sendgrid, Postmark,
+          Convertkit, Github, Heroku, Render, Vercel, Fly.io, Make.com, ...
         </i>
       </p>
       <p>
         Tech:{" "}
-        <i>
-          Google App Script, Stable Diffusion, Dall-e, Chatgpt, Node, React,
-          Next, EJS, MongoDB, Python,...
-        </i>{" "}
+        <i>Google Apps Script, Node, React, Next, EJS, MongoDB, Python,...</i>{" "}
       </p>
       <p>
         AI (and related):{" "}
@@ -93,7 +89,7 @@ function Home() {
         >
           wheredoesthea380fly
         </a>
-        , Node backend. Storage in MongoDB.
+        , Node backend. Storage in MongoDB. Mapbox.
       </p>
       <p>
         Project 5: FlightAware API usage for{" "}
@@ -272,7 +268,7 @@ function Home() {
           In Production Testing now
         </a>
         . In NextJS,SqLiteCloud.io, Deployed on Vercel, Tanstack Reacttable,
-        Postmark{" "}
+        Postmark . Abandoned
       </p>{" "}
       <p>
         Project 20: Truck Mapping{" "}
@@ -291,12 +287,41 @@ function Home() {
         ...{" "}
       </p>{" "}
       <p>
-        Project 22: A dashboard with the next 10 planes landing at Schiphol
+        Project 22: A{" "}
+        <a
+          href="https://weekendaway.fly.dev/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          dashboard
+        </a>{" "}
+        with the next 10 planes landing at Schiphol. Schiphol API and
+        Flightradar24 API
         <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>{" "}
       <p>
         Project 23: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>
+      <p>
+        Project 24: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 25: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 26: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 27: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 28: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>
     </div>
