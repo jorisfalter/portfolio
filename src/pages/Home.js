@@ -357,6 +357,26 @@ function Home() {
         . Static website
       </p>
       <p>
+        Project 28: a RAG application test which indexes the Berkshire Hathaway
+        annual reports{" "}
+        <a
+          href="https://www.berkshire-bot.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Berkshire-Bot
+        </a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 29: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
+        Project 28: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        ...{" "}
+      </p>{" "}
+      <p>
         Project 28: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>
