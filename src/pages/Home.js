@@ -49,7 +49,7 @@ function Home() {
       </p>
       <h3>Projects</h3>
       <p>
-        Project 1: ChatGPT AI Wrapping in{" "}
+        Project 1: ChatGPT Wrapper in{" "}
         <a
           href="https://www.ai-juniors.com/"
           target="_blank"
@@ -100,7 +100,7 @@ function Home() {
         >
           FlightsForFlaneurs
         </a>
-        , Node Backend, MongoDB.
+        , Node backend, MongoDB.
       </p>
       <p>
         Project 6:{" "}
@@ -111,7 +111,7 @@ function Home() {
         >
           Read Vertical Like the Japanese
         </a>
-        : in Google App Script
+        : in Google Apps Script
       </p>
       <p>
         Project 7: Raspberry Pi Project which turns a light on when a specific
