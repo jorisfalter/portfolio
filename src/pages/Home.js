@@ -372,11 +372,11 @@ function Home() {
         Pushup Counter (Coming Soon){" "}
       </p>{" "}
       <p>
-        Project 28: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
+        Project 30: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Plane Above Me (Coming Soon){" "}
       </p>{" "}
       <p>
-        Project 28: <a href="" target="_blank" rel="noopener noreferrer"></a>
+        Project 31: <a href="" target="_blank" rel="noopener noreferrer"></a>
         ...{" "}
       </p>
     </div>
