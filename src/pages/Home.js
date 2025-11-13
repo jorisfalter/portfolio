@@ -356,7 +356,7 @@ function Home() {
         . Static website
       </p>
       <p>
-        Project 28: a RAG application test which indexes the Berkshire Hathaway
+        Project 28: A RAG application test which indexes the Berkshire Hathaway
         annual reports{" "}
         <a
           href="https://www.berkshire-bot.com/"
@@ -369,7 +369,7 @@ function Home() {
       </p>{" "}
       <p>
         Project 29: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        Pushup Counter (Coming Soon){" "}
+        Pushup Counter (Coming Soon). Uses Supabase, Python, Waha.{" "}
       </p>{" "}
       <p>
         Project 30: <a href="" target="_blank" rel="noopener noreferrer"></a>
