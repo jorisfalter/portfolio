@@ -49,13 +49,13 @@ function Home() {
       </p>
       <h3>Projects</h3>
       <p>
-        Project 1: ChatGPT Wrapper in{" "}
+        Project 1: ChatGPT wrapper in{" "}
         <a
           href="https://www.ai-juniors.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          AI-Juniors
+          AI-Juniors.
         </a>
       </p>
       <p>
@@ -67,7 +67,7 @@ function Home() {
         >
           Reggio-Home
         </a>{" "}
-        (using Next)
+        (using Next).
       </p>
       <p>
         Project 3:{" "}
@@ -78,7 +78,7 @@ function Home() {
         >
           AI Coach
         </a>
-        , with a Python backend{" "}
+        , with a Python backend.{" "}
       </p>
       <p>
         Project 4: FlightRadar API usage for{" "}
@@ -111,7 +111,7 @@ function Home() {
         >
           Read Vertical Like the Japanese
         </a>
-        : in Google Apps Script
+        : in Google Apps Script.
       </p>
       <p>
         Project 7: Raspberry Pi Project which turns a light on when a specific
@@ -174,7 +174,7 @@ function Home() {
         >
           SameDayBlocker
         </a>
-        : A Google Calendar integration in App Script.
+        : A Google Calendar integration in Apps Script.
       </p>
       <p>
         Project 13: Not sure if the name 'project' worthy, but I made a{" "}
@@ -185,7 +185,7 @@ function Home() {
         >
           digital dice
         </a>{" "}
-        when we didn't have a physical one...
+        when we didn't have a physical one.
       </p>
       <p>
         Project 14:{" "}
@@ -279,7 +279,7 @@ function Home() {
         >
           POC
         </a>
-        . Fly.io, NodeJS, Google Maps API
+        . Fly.io, NodeJS, Google Maps API.
       </p>
       <p>
         Project 21: Scraping a FB Expat group to do trends analysis
@@ -295,9 +295,7 @@ function Home() {
           dashboard
         </a>{" "}
         with the next 10 planes landing at Schiphol. Schiphol API and
-        Flightradar24 API
-        <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
+        Flightradar24 API.
       </p>{" "}
       <p>
         Project 23: An app which allows to see your{" "}
@@ -308,7 +306,7 @@ function Home() {
         >
           twitter followers
         </a>
-        . Built using Fly.io, Apify, Twitter (X), Stripe, React
+        . Built using Fly.io, Apify, Twitter (X), Stripe, React.
       </p>
       <p>
         Project 24: An app which generates and curates{" "}
@@ -319,7 +317,7 @@ function Home() {
         >
           AI Dreamhouses
         </a>
-        . Built with Replicate, Flux, TypeScript, Next.js
+        . Built with Replicate, Flux, TypeScript, Next.js.
       </p>
       <p>
         Project 25:{" "}
@@ -330,7 +328,7 @@ function Home() {
         >
           Air Travel Tech Jobs
         </a>{" "}
-        - A platform listing interesting travel companies. Static website
+        - A platform listing interesting travel companies. Static website.
       </p>
       <p>
         Project 26: My passion for{" "}
