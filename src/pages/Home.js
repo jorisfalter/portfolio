@@ -89,7 +89,7 @@ function Home() {
         >
           wheredoesthea380fly
         </a>
-        , Node backend. Storage in MongoDB. Mapbox.
+        , Node backend, MongoDB, Mapbox.
       </p>
       <p>
         Project 5: FlightAware API usage for{" "}
@@ -100,7 +100,7 @@ function Home() {
         >
           FlightsForFlaneurs
         </a>
-        , Node Backend. Storage in MongoDB.
+        , Node Backend, MongoDB.
       </p>
       <p>
         Project 6:{" "}
