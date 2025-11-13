@@ -369,7 +369,7 @@ function Home() {
       </p>{" "}
       <p>
         Project 29: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
+        Pushup Counter (Coming Soon){" "}
       </p>{" "}
       <p>
         Project 28: <a href="" target="_blank" rel="noopener noreferrer"></a>
