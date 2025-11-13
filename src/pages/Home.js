@@ -268,7 +268,7 @@ function Home() {
           In Production Testing now
         </a>
         . In NextJS,SqLiteCloud.io, Deployed on Vercel, Tanstack Reacttable,
-        Postmark . Abandoned
+        Postmark. Abandoned.
       </p>{" "}
       <p>
         Project 20: Truck Mapping{" "}
@@ -279,12 +279,11 @@ function Home() {
         >
           POC
         </a>
-        . Fly.io as well. NodeJS. Google Maps API
+        . Fly.io, NodeJS, Google Maps API
       </p>
       <p>
         Project 21: Scraping a FB Expat group to do trends analysis
-        <a href="" target="_blank" rel="noopener noreferrer"></a>
-        ...{" "}
+        <a href="" target="_blank" rel="noopener noreferrer"></a>.{" "}
       </p>{" "}
       <p>
         Project 22: A{" "}
@@ -309,7 +308,7 @@ function Home() {
         >
           twitter followers
         </a>
-        . Built with Fly.io, Apify, X, Stripe, React
+        . Built using Fly.io, Apify, Twitter (X), Stripe, React
       </p>
       <p>
         Project 24: An app which generates and curates{" "}
@@ -366,7 +365,7 @@ function Home() {
         >
           Berkshire-Bot
         </a>
-        ...{" "}
+        . Backend in Python.
       </p>{" "}
       <p>
         Project 29: <a href="" target="_blank" rel="noopener noreferrer"></a>
