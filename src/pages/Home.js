@@ -137,7 +137,7 @@ function Home() {
         project plans, ... with a Python backend.{" "}
       </p>
       <p>
-        Project 10: A selection of (sometimes irritating) Marketing Tools.
+        Project 10: A selection of (sometimes irritating) marketing Tools.
         Active on my{" "}
         <a
           href="https://www.jorisfalter.com/"
@@ -162,7 +162,7 @@ function Home() {
         >
           RandomAirport
         </a>
-        . A NodeJS backend and a React frontend. And a Notion(!) Database. Uses
+        . A NodeJS backend and a React frontend. And a Notion(!) database. Uses
         the Google Maps API. High dependency on Jetphotos.{" "}
       </p>
       <p>
@@ -225,7 +225,7 @@ function Home() {
         >
           DEVTask template
         </a>
-        . First time using fly.io.
+        . First time using Fly.io.
       </p>{" "}
       <p>
         Project 17: Link Summary Chrome Extension:{" "}
@@ -236,7 +236,7 @@ function Home() {
         >
           Chrome Extension Store
         </a>{" "}
-        (More soon)
+        get summaries of headlines by hovering over them.
       </p>{" "}
       <p>
         Project 18: Mini project to rebuild a{" "}
@@ -255,7 +255,7 @@ function Home() {
         >
           something a 5 year old could understand,
         </a>{" "}
-        so my wife can use it in her classroom. It will probably get outdated
+        so my spouse can use it in her classroom. It will probably get outdated
         pretty soon when the Dutch government updates their original page.
       </p>{" "}
       <p>
