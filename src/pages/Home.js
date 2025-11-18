@@ -367,7 +367,8 @@ function Home() {
       </p>{" "}
       <p>
         Project 29: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        Pushup Counter (Coming Soon). Uses Supabase, Python, Waha.{" "}
+        Pushup Counter (Coming Soon). Uses Supabase, Python, Waha, first time
+        Hetzner VPS.{" "}
       </p>{" "}
       <p>
         Project 30: <a href="" target="_blank" rel="noopener noreferrer"></a>
