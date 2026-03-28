@@ -35,7 +35,9 @@ function Home() {
       </p>
       <p>
         Tech:{" "}
-        <i>Google Apps Script, Node, React, Next, EJS, MongoDB, Python,...</i>{" "}
+        <i>
+          Google Apps Script, Node, React, Next, EJS, MongoDB, Python,...
+        </i>{" "}
       </p>
       <p>
         AI (and related):{" "}
@@ -372,7 +374,7 @@ function Home() {
       </p>{" "}
       <p>
         Project 30: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        Plane Above Me (Coming Soon){" "}
+        Plane Above Me https://planes-above-me.fly.dev/{" "}
       </p>{" "}
       <p>
         Project 31: <a href="" target="_blank" rel="noopener noreferrer"></a>
