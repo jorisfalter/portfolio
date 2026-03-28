@@ -373,8 +373,15 @@ function Home() {
         Hetzner VPS.{" "}
       </p>{" "}
       <p>
-        Project 30: <a href="" target="_blank" rel="noopener noreferrer"></a>
-        Plane Above Me https://planes-above-me.fly.dev/{" "}
+        Project 30:{" "}
+        <a
+          href="https://planes-above-me.fly.dev/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          planes above me
+        </a>
+        in Amstelveen. I put this on an lcd dash in my house for a while.{" "}
       </p>{" "}
       <p>
         Project 31: <a href="" target="_blank" rel="noopener noreferrer"></a>
